@@ -1,0 +1,4 @@
+DEMO VIDEOS LOCATED IN GOOGLE DRIVE:
+
+Nick_v2_YOLOv12(15k-img).pt demo video: https://drive.google.com/file/d/1vuPNYRnaZn_pVV79gAOR_1lV5sQzDmMI/view?usp=drive_link
+Zhenyu_YOLOv12(20k-img).pt demo video: https://drive.google.com/file/d/1p2-7kQLejvLu06LUa1CqxK1zoss0T439/view?usp=drive_link
