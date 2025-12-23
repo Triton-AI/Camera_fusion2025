@@ -50,6 +50,15 @@
 ## Deploy a model
 - The simplest way to test your model is by going to **Models** and selecting your model. Then either upload another image, try the webcam, or paste a link to an image
 - (Recommended) To deploy a model to your own machine you can download the weights to use on your own machine
+  - One sample code you can use is to go to our src folder and install the dependcy by:
+    ```
+    bash install.sh
+    ```
+    Then download our python file testYOLO_12.py and run
+    ```
+    python testYOLO_12.py
+    ```
+    Our sample code works for both YOLO 11 and 12 model, but if you want to use other YOLO version. Please do some modification on your own!
 - Lastly, you can call the roboflow api to deploy your model for more information visit [Roboflow's Documentation](https://blog.roboflow.com/deploy-computer-vision-models-offline/)
 
 ## Join the Triton AI workspace
