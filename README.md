@@ -31,7 +31,7 @@
 - Press the bounding box on the bar on the right
 - Draw a bounding box around the object and name your class, then press enter
 - For your next image, draw the box, then hit enter
-- For AI labeling you can press **Label Assist** and a model will label for you, however it is not perfect, make sure to double check. This method uses 1 credit per 100 images
+- For AI labeling you can press **Label Assist** and a model will label for you, however it is not perfect, make sure to double check. **This method uses 1 credit per 100 images** (expensive)
 - If an image does not have any objects, you can press **N** or hit the bottom option in the bar on the right to mark it as a NULL image
 - Once all the images are labeled you can add them to the dataset by pressing the checkmark on the top, make sure to split between Train, Test, and Valid by pressing on the **Method Dropdown bar**
 
@@ -65,11 +65,11 @@
 - Ask a team lead to invite you to the project
 
 ## Set Up Your Own Workspace
-At this point you should have your own workspace and be in the Triton AI workspace. Since credits are limited, we label our data in the main Triton AI workspace then download the datasets so that each team member can train models in their own workspaces. To get more credits for free, go to Settings on the left, Planning and Billing, then scroll to the bottom to create a research plan. **Note** This is only available for .edu emails
+At this point you should have your own workspace and be in the Triton AI workspace. Since **credits are limited**, we label our data in the main Triton AI workspace then download the datasets so that each team member can train models in their own workspaces. To get more credits for free, go to Settings on the left, Planning and Billing, then scroll to the bottom to create a research plan. **Note** This is only available for .edu emails
 
 ## Known Bugs
 - When uploading using the QR Code, after the upload, Roboflow will not allow you to upload more data and will continously redirect you to another page. A solution we have found is to rename the upload then save and the problem should be solved.
 
 
 ---
-By: Luis Zaragoza
+By: Luis Zaragoza, Zhenyu Jiang
